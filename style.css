@@ -1,0 +1,24 @@
+body {
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+  font-family: 'Helvetica';
+  font-size:30px;
+  background-color: lightblue;
+}
+
+p {
+  font-weight: bold;
+}
+.instructions{
+  font-size: 40px;
+  text-align: center;
+}
+
+#grades, #avg_grades { font: normal 20px; }
+#final_grade { font: bold 50px Helvetica; }
+.green { color: green; }
+.teal { color: teal; }
+.blue { color: blue; }
+.orange { color: orange; }
+.red { color: red; }
